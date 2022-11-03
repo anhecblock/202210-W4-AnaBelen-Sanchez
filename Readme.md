@@ -1,4 +1,4 @@
-# Week 2 - Challenge 2 👩🏽‍💻
+# Week 4 - Challenge 👩🏽‍💻
 
 ## strictEquals function
 
